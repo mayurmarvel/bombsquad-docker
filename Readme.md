@@ -1,6 +1,6 @@
 # BombSquad Docker
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/alibo/bombsquad?style=flat-square)](https://hub.docker.com/r/alibo/bombsquad)
+[![Docker Pulls](https://img.shields.io/docker/pulls/alibo/bombsquad?style=flat-square)](https://hub.docker.com/r/freedump/bombsquad-docker)
 
 An unofficial docker image for server app of [BombSquad Game](https://www.froemling.net/apps/bombsquad)
 
@@ -17,4 +17,4 @@ You can use **config.yaml** in this repo.
 
 ### Dockerhub
 
-See: <https://hub.docker.com/r/alibo/bombsquad>
+See: <https://hub.docker.com/r/freedump/bombsquad-docker>
