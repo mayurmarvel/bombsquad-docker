@@ -10,7 +10,7 @@ An unofficial docker image for server app of [BombSquad Game](https://www.froeml
 docker run -d -it \
     -p 43210:43210/udp \
     --name bombsquad \
-    ghcr.io/alibo/bombsquad-docker:latest
+    freedump/bombsquad-docker
 ```
 
 You can use **config.yaml** in this repo.
